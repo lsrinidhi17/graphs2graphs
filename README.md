@@ -6,9 +6,9 @@ I have implemented six different functions, listed below, to convert graphs repr
 
 The three different graph types are:
 
-- List: A list of tuples of edges, where each entry in the list is a tuple (from,to) where $from$ and $to$ are nodes.
-- Dictionary: A dictionary where keys are $from$ nodes and the value is a *list* of $to$ nodes
-- Matrix: A numpy matrix where each entry ($from$, $to$) that is a one represents an edge and a zero represents no edge.
+- List: A list of tuples of edges, where each entry in the list is a tuple (from,to) where 'from' and 'to' are nodes.
+- Dictionary: A dictionary where keys are 'from' nodes and the value is a list of 'to' nodes
+- Matrix: A numpy matrix where each entry ('from', 'to') that is a one represents an edge and a zero represents no edge.
 
 Here's an example.  The graph below can be represented three different ways:
 
