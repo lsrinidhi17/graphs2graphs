@@ -1,4 +1,4 @@
-## Graph Conversion
+## Python Graph Conversion
 
 The purpose of this exercise is to use basic Python data structures such as lists, dictionaries, and numpy's array.
 
