@@ -12,7 +12,7 @@ The three different graph types are:
 
 Here's an example.  The graph below can be represented three different ways:
 
-
+```bash
     List:
         [
             (0,1),
@@ -36,5 +36,21 @@ Here's an example.  The graph below can be represented three different ways:
           [0, 0, 0, 0],
         ]
         
+```
 
+### Functions implemented
+
+```bash
+1. graph_list2dict   - Converts list to dictionary
+2. graph_list2matrix - Converts list to Matrix
+3. graph_dict2list   - Converts dictionary to list
+4. graph_dict2matrix - Converts dictionary to matrix
+5. graph_matrix2dict - Converts matrix to dictionary
+6. graph_matrix2list - Converts matrix to list
+```
+### Helper Functions
+
+```bash
+1. tupletoDict      - Converts Tuple to Dictionary
+```
 
